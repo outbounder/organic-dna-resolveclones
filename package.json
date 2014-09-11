@@ -1,0 +1,24 @@
+{
+  "name": "organic-dna-resolveclones",
+  "version": "0.0.1",
+  "description": "Resolves DNA `!@branch.property` values by cloning the referenced branches",
+  "main": "index.js",
+  "dependencies": {
+    "organic-dna-branches": "^0.0.2",
+    "clone": "^0.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outbounder/organic-dna-resolveclones.git"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outbounder/organic-dna-resolveclones/issues"
+  },
+  "homepage": "https://github.com/outbounder/organic-dna-resolveclones"
+}
